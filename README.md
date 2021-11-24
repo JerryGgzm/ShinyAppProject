@@ -1,1 +1,3 @@
 # ShinyAppProject
+This is Jerry's final project for STAT385 course in 2020. The dataset utilized in this project records criminals' information including gender, age, area, etc. The goal of the project is to find out what kind of crimes people with different identities are more likely to commit in the area of Illinois through data visualization. These identities include age, race, marital status, and employment.
+Through visualization of crime distribution, we will be able to conclude the specific crime tendency among illinois. Build on that, we expect to see if there is any correlation between the prisoner’s identity and his crime type. We will be able to regulate policies that target specific identity groups, achieving better results in reducing the crime rate. 
